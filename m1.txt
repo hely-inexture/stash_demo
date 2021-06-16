@@ -1,2 +1,6 @@
 first text file named m1
+<<<<<<< Updated upstream
 changes in m1
+=======
+other changes in m1
+>>>>>>> Stashed changes

@@ -1,2 +1,6 @@
 text file named m4
+<<<<<<< Updated upstream
 changes in m4
+=======
+other changes in m4
+>>>>>>> Stashed changes
